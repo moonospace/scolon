@@ -63,7 +63,7 @@ export function HeroSection() {
         Scolon.
       </h2>
 
-      <p className="mt-6 text-center text-foreground/80 leading-relaxed lg:w-4/12">
+      <p className="mt-6 text-center leading-relaxed lg:w-4/12">
         A space for developer to learn more about development, design
         applications, growing dev skills and sharing tips and tricks to become
         better developer.
